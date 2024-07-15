@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: 在函式 "__declspec(dllimport) void __cdecl output(void)" (__imp_?output@@YAXXZ)main 中參考了無法解析的外部符號
+Mitsubishi_Socket_Communication.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+C:\Users\胡子新\Downloads\RunDLL\x64\Debug\RunDLL.exe : fatal error LNK1120: 1 個無法解析的外部符號
