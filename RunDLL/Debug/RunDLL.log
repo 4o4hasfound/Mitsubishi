@@ -1,2 +1,23 @@
-﻿  main.cpp
+﻿  Mitsubishi_Socket_Communication.cpp
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcStr.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcDef.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcErr.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcErr.h(456,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcErr.h(820,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Include\VC\EZSocketNcErr.h(1210,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
+C:\Program Files (x86)\EZSocket\EZSocketNc\Samples\VC\Macros\include\EZSocketNcOle.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  (編譯來源檔案 'Mitsubishi_Socket_Communication.cpp')
+  
   RunDLL.vcxproj -> C:\Users\胡子新\Downloads\RunDLL\Debug\RunDLL.exe
